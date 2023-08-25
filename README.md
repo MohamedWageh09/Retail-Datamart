@@ -3,7 +3,7 @@ This is one of Edureka's informatica certificate projects
 The purpose of this solution is to explain how to create a retail data warehouse / Datamart using PowerCenter.
 
 ## Description:
-Transaction and master data from OLTP (online transaction processing) systems is loaded into the data warehouse as Fact tables and Dimension tables respectively. In this project, we consider a Sales Order Processing system as a source with the following tables
+Transaction and master data from OLTP systems is loaded into the data warehouse as Fact tables and Dimension tables respectively. In this project, we consider a Sales Order Processing system as a source with the following tables
 
 ### Source Tables: Create tables as mentioned below.
 
@@ -14,7 +14,7 @@ Transaction and master data from OLTP (online transaction processing) systems is
 - CHANNELS – Master Table
 - SALES – Transaction Table
 
-### Target Tables : And i consider the following table as target tables for building data warehouse:
+### Target Tables : I consider the following table as target tables for building data mart:
 
 - DIM_CUSTOMER – Dimension Table
 - DIM_COUNTRIES – Dimension Table
