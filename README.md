@@ -1,5 +1,5 @@
 This is one of Edureka's informatica certificate projects
-## Problem Statement.
+## Problem Statement:
 The purpose of this solution is to explain how to create a retail data warehouse / Datamart using PowerCenter.
 
 ## Description:
