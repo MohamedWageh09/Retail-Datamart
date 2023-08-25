@@ -1,5 +1,6 @@
+# Retail Data Mart
 This is one of Edureka's informatica certificate projects
-Concepts covered:
+### Concepts covered:
 - SCD Type1 / Type2
 - Incremental load
 - CDC
