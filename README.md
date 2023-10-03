@@ -3,7 +3,7 @@ This is one of Edureka's informatica certificate projects
 ### Concepts covered:
 - SCD Type1 / Type2
 - Incremental load
-- CDC
+
 ## Problem Statement:
 The purpose of this solution is to explain how to create a retail data warehouse / Datamart using PowerCenter.
 
